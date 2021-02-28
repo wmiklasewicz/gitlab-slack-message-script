@@ -62,7 +62,7 @@ slackmessage() {
 			},
 			\"accessory\": {
 				\"type\": \"button\",
-                \"url\":\"https://aventus.gitlab.io/platform/aventus-api-tests\",
+                \"url\":\"[link_to_the_report]",
 				\"text\": {
 					\"type\": \"plain_text\",
 					\"text\": \"Test Report\"
