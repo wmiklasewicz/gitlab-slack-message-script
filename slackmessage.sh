@@ -62,7 +62,7 @@ slackmessage() {
 			},
 			\"accessory\": {
 				\"type\": \"button\",
-                \"url\":\"[link_to_the_report]",
+                \"url\":\"https://link_to_the_report\",
 				\"text\": {
 					\"type\": \"plain_text\",
 					\"text\": \"Test Report\"
